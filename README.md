@@ -110,14 +110,19 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
 
 Dans les ouvrages sont exclus: les manuels, et les ouvrages dédiés à une technique marquant une période.
 
-### Théorie
+### Théorie 
 
 * Security Engineering, par Ross Anderson <https://www.cl.cam.ac.uk/~rja14/book.html>
 
 * Beyond Fear, par Bruce Schneier <https://www.schneier.com/books/beyond_fear/>
 
 
-### Récits
+### Organisation
+
+* Sécurité Opérationelle, par Alexandre Fernandez Toro <https://www.eyrolles.com/Informatique/Livre/securite-operationnelle-9782212144604/>
+
+
+### Récits et histoire
 
 * The Cuckoo Egg, par Cliffort Stoll <https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg>
 
@@ -129,7 +134,7 @@ Dans les ouvrages sont exclus: les manuels, et les ouvrages dédiés à une tech
 
 * Fatal System Error, par Joseph Menn <https://www.goodreads.com/book/show/7638558-fatal-system-error>
 
-
+* The Codebreakers, par Simon Singh <https://simonsingh.net/books/recommended-books/great-cryptography-books/the-codebreakers/>
 
 ### Technique défensive
 
@@ -147,7 +152,10 @@ Dans les ouvrages sont exclus: les manuels, et les ouvrages dédiés à une tech
 
 ### Technique offensive
 
-* TODO
+ 
+* Hacking Exposed, par Joel Scambray, Stuart McClure, George Kurtz<https://www.cylance.com/en-us/resources/events/hacking-exposed.html>
+
+* TODO: plus de références offensives
 
 
 
