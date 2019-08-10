@@ -58,9 +58,9 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
 
 * The Untold Story of NotPetya, the Most Devastating Cyberattack in History <https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/>
 
-* Symantec Stuxnet Dossier <https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/security-response-w32-stuxnet-dossier-11-en.pdf>
+* Symantec Stuxnet Dossier <https://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf>
 
-* Mandiant APT1 Exposing One of China’s Cyber Espionage Units <https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf>
+* Mandiant APT1 Exposing One of China’s Cyber Espionage Units <https://www.fireeye.fr/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf>
 
 * CYBER ESPIONAGE  Against Georgian Government (Georbot Botnet) <http://dea.gov.ge/uploads/CERT%20DOCS/Cyber%20Espionage.pdf>
 
