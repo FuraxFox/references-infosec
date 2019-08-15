@@ -34,9 +34,13 @@ Papiers scientifiques, post de blogs ou articles illustrant les connaissances de
 
 Quelques papiers fondamentaux pour comprendre l'état la réflexion sur la connaissance des attaquants
 
+* Intelligence-Driven Computer Network DefenseInformed by Analysis of Adversary Campaigns and Intrusion Kill Chains  <https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf>
+
 * The Diamond Model of Intrusion Analysis <http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf>
 
 * The Pyramid of Pain <https://www.threathunting.net/files/A%20Framework%20for%20Cyber%20Threat%20Hunting%20Part%201_%20The%20Pyramid%20of%20Pain%20_%20Sqrrl.pdf>
+
+* MITRE ATT&CK: Design and Philosophy <https://www.mitre.org/sites/default/files/publications/pr-18-0944-11-mitre-attack-design-and-philosophy.pdf>
 
 * WALKING IN YOUR ENEMY’S SHADOW: WHEN FOURTH-PARTY COLLECTION BECOMES ATTRIBUTION HELL <https://www.virusbulletin.com/uploads/pdf/magazine/2017/VB2017-Guerrero-Saade-Raiu.pdf>
 
