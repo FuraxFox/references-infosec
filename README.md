@@ -96,6 +96,9 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
     * <https://dragos.com/wp-content/uploads/TRISIS-01.pdf>
 	* <https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html>
 
+* Malicious life - Responding to a cyber-attack with missiles
+	* <https://malicious.life/episode/episode-54/>
+
 #### Criminel
 
 * Large-scale SIM swap fraud  <https://securelist.com/large-scale-sim-swap-fraud/90353/>
