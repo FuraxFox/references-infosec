@@ -8,6 +8,8 @@ Les références sur l'informatique non centrées sur la sécurité, même perti
 
 Les documents sélectionnés seront en Français ou en Anglais indifférement.
 
+Ce document est maintenu à jour à l'adresse: <https://github.com/FuraxFox/references-infosec>
+
 ## Articles
 
 Papiers scientifiques, post de blogs ou articles illustrant les connaissances de base en sécurité informatique.
