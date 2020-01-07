@@ -54,7 +54,7 @@ Quelques papiers fondamentaux pour comprendre l'état la réflexion sur la conna
 
 Une collection de rapports d'incident illustrant la richesse des modes opératoires des attaquants et de leurs outils.
 
-#### Guvernemental
+#### Gouvernemental
 
 * Penquin’s Moonlit Maze <https://securelist.com/penquins-moonlit-maze/77883/>
 
@@ -144,6 +144,8 @@ Dans les ouvrages sont exclus: les manuels, et les ouvrages dédiés à une tech
 * Fatal System Error, par Joseph Menn <https://www.goodreads.com/book/show/7638558-fatal-system-error>
 
 * The Codebreakers, par Simon Singh <https://simonsingh.net/books/recommended-books/great-cryptography-books/the-codebreakers/>
+
+* Sandworm, A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers, Andrew Greenberg <https://www.goodreads.com/book/show/41436213-sandworm>
 
 ### Technique défensive
 
