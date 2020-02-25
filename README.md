@@ -50,6 +50,8 @@ Quelques papiers fondamentaux pour comprendre l'état la réflexion sur la conna
 
 * The evolution of ransomware <https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/the-evolution-of-ransomware-15-en.pdf>
 
+* Etat de la menace rançongiciel <https://www.cert.ssi.gouv.fr/uploads/CERTFR-2020-CTI-001.pdf>
+
 ### Incidents et campagnes
 
 Une collection de rapports d'incident illustrant la richesse des modes opératoires des attaquants et de leurs outils.
