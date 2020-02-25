@@ -166,6 +166,8 @@ Dans les ouvrages sont exclus: les manuels, et les ouvrages dédiés à une tech
  
 * Hacking Exposed, par Joel Scambray, Stuart McClure, George Kurtz<https://www.cylance.com/en-us/resources/events/hacking-exposed.html>
 
+* Network Attack and Exploitation, a framework, Matthew Monte <http://www.matthewmonte.net/>
+
 * TODO: plus de références offensives
 
 
