@@ -117,6 +117,10 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
 
 * The mastermind, histoire de Paul Leroux <https://magazine.atavist.com/the-mastermind>
 
+* DarkNet Diaries: The Athens Shadow Games
+	* <https://darknetdiaries.com/episode/64/>
+
+
 ## Livres
 
 Dans les ouvrages sont exclus: les manuels, et les ouvrages dédiés à une technique marquant une période.
