@@ -161,7 +161,7 @@ Dans les ouvrages sont exclus: les manuels, et les ouvrages dédiés à une tech
 
 * The Practice of Network Security Monitoring, par Richard Bejtlich <https://nostarch.com/nsm>
 
-
+* Building Secure and Reliable Systems, par H. Adkins, B. Beyer, P. Blankinship, P. Lewandowski, A. Oprea, A Stubblefield <https://landing.google.com/sre/resources/foundationsandprinciples/srs-book/>
 
 ### Technique offensive
 
@@ -170,7 +170,7 @@ Dans les ouvrages sont exclus: les manuels, et les ouvrages dédiés à une tech
 
 * Network Attack and Exploitation, a framework, Matthew Monte <http://www.matthewmonte.net/>
 
-* TODO: plus de références offensives
+* Hacking: The Art of Exploitation,  de Jon Erickson <https://nostarch.com/hacking2.htm>
 
 
 
