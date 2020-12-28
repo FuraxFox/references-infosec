@@ -128,10 +128,11 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
 
 * TRISIS/Triton/Triconnex
     * <https://dragos.com/wp-content/uploads/TRISIS-01.pdf>
-	* <https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html>
+    * <https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html>
+    * <https://darknetdiaries.com/episode/68/>
 
 * Malicious life - Responding to a cyber-attack with missiles
-	* <https://malicious.life/episode/episode-54/>
+    * <https://malicious.life/episode/episode-54/>
 
 * Chine vs US: renseignement et diplomatie dans le numérique de l'arrogance au trauma
     * <https://foreignpolicy.com/2020/12/21/china-stolen-us-data-exposed-cia-operatives-spy-networks/>
@@ -147,6 +148,9 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
 * Goodfellas, the Brazilian carding scene is after you   <https://securelist.com/goodfellas-the-brazilian-carding-scene-is-after-you/84263/>
 
 * Evolution of Dridex <https://securelist.com/dridex-a-history-of-evolution/78531/>
+
+* The business model of Fin7 <https://youtu.be/e3Vcp_Hr3jI>
+
 
 ### Récits
 
