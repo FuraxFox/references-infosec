@@ -1,12 +1,13 @@
 # Références Infosec
 
 Des références pour se faire une culture de sécurité informatique.
-Cette liste s'adresse plutôt au professionel débutant ou à une personne encline à élargir ses connaissances.
+Cette liste s'adresse plutôt au professionnel débutant ou à une personne encline à élargir ses connaissances.
 La compréhension de la plupart des ressources listées nécessite un minimum de culture technique préalable.
-Je n'incluerais pas des ouvrages plus grand public, même excellents.
-Les références sur l'informatique non centrées sur la sécurité, même pertinentes, seront aussi évitées.
 
-Les documents sélectionnés seront en Français ou en Anglais indifférement.
+Je n'inclurais pas des ouvrages plus grand public, même excellents.
+Les références sur l'informatique non centrées sur la sécurité, même référentes, seront aussi évitées.
+
+Les documents sélectionnés seront en Français ou en Anglais indifféremment.
 
 Ce document est maintenu à jour à l'adresse: <https://github.com/FuraxFox/references-infosec>
 
@@ -17,7 +18,8 @@ Papiers scientifiques, post de blogs ou articles illustrant les connaissances de
 ### Fondamentaux 
 
 
-* Reflections on Trusting Trust <https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf>
+* Reflections on Trusting Trust 
+    * <https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf>
 
 * Defenders think in lists. Attackers think in graphs
     * <https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md>
@@ -141,20 +143,25 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
 
 #### Criminel
 
-* Large-scale SIM swap fraud  <https://securelist.com/large-scale-sim-swap-fraud/90353/>
+* Large-scale SIM swap fraud
+    * <https://securelist.com/large-scale-sim-swap-fraud/90353/>
 
-* Roaming Mantis uses DNS hijacking to infect Android smartphones <https://securelist.com/roaming-mantis-uses-dns-hijacking-to-infect-android-smartphones/85178/>
+* Roaming Mantis uses DNS hijacking to infect Android smartphones
+    * <https://securelist.com/roaming-mantis-uses-dns-hijacking-to-infect-android-smartphones/85178/>
 
-* Goodfellas, the Brazilian carding scene is after you   <https://securelist.com/goodfellas-the-brazilian-carding-scene-is-after-you/84263/>
+* Goodfellas, the Brazilian carding scene is after you
+    * <https://securelist.com/goodfellas-the-brazilian-carding-scene-is-after-you/84263/>
 
-* Evolution of Dridex <https://securelist.com/dridex-a-history-of-evolution/78531/>
+* Evolution of Dridex
+    * <https://securelist.com/dridex-a-history-of-evolution/78531/>
 
 * The business model of Fin7 <https://youtu.be/e3Vcp_Hr3jI>
 
 
 ### Récits
 
-* The mastermind, histoire de Paul Leroux <https://magazine.atavist.com/the-mastermind>
+* The mastermind, histoire de Paul Leroux
+    * <https://magazine.atavist.com/the-mastermind>
 
 * DarkNet Diaries: The Athens Shadow Games
 	* <https://darknetdiaries.com/episode/64/>
@@ -166,54 +173,73 @@ Dans les ouvrages sont exclus: les manuels, et les ouvrages dédiés à une tech
 
 ### Théorie 
 
-* Security Engineering, par Ross Anderson <https://www.cl.cam.ac.uk/~rja14/book.html>
+* Security Engineering, par Ross Anderson
+    * <https://www.cl.cam.ac.uk/~rja14/book.html>
 
-* Beyond Fear, par Bruce Schneier <https://www.schneier.com/books/beyond_fear/>
+* Beyond Fear, par Bruce Schneier
+    * <https://www.schneier.com/books/beyond_fear/>
 
 
 ### Organisation
 
-* Sécurité Opérationelle, par Alexandre Fernandez Toro <https://www.eyrolles.com/Informatique/Livre/securite-operationnelle-9782212144604/>
+* Sécurité Opérationelle, par Alexandre Fernandez Toro
+    * <https://www.eyrolles.com/Informatique/Livre/securite-operationnelle-9782212144604/>
 
 
 ### Récits et histoire
 
-* The Cuckoo Egg, par Cliffort Stoll <https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg>
+* The Cuckoo Egg, par Cliffort Stoll
+    * <https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg>
 
-* Dark Territory, par Fred Kaplan <https://www.goodreads.com/book/show/25814289-dark-territory>
+* Dark Territory, par Fred Kaplan
+    * <https://www.goodreads.com/book/show/25814289-dark-territory>
 
-* Spam Nation, par Brian Krebs <https://www.goodreads.com/book/show/18509663-spam-nation>
+* Spam Nation, par Brian Krebs
+    * <https://www.goodreads.com/book/show/18509663-spam-nation>
 
-* Countdown to Zero Day, par Kim Zetter <https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter/9780770436193/>
+* Countdown to Zero Day, par Kim Zetter
+    * <https://www.penguinrandomhouse.com/books/219931/countdown-to-zero-day-by-kim-zetter/9780770436193/>
 
-* Fatal System Error, par Joseph Menn <https://www.goodreads.com/book/show/7638558-fatal-system-error>
+* Fatal System Error, par Joseph Menn
+    * <https://www.goodreads.com/book/show/7638558-fatal-system-error>
 
-* The Codebreakers, par Simon Singh <https://simonsingh.net/books/recommended-books/great-cryptography-books/the-codebreakers/>
+* The Codebreakers, par Simon Singh
+    * <https://simonsingh.net/books/recommended-books/great-cryptography-books/the-codebreakers/>
 
-* Sandworm, A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers, Andrew Greenberg <https://www.goodreads.com/book/show/41436213-sandworm>
+* Sandworm, A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers, Andrew Greenberg
+    * <https://www.goodreads.com/book/show/41436213-sandworm>
 
 ### Technique défensive
 
-* The tangled web, a guide to securing modern web applications par Mihcal Zalewski <http://lcamtuf.coredump.cx/tangled/>
+* The tangled web, a guide to securing modern web applications par Mihcal Zalewski
+    * <http://lcamtuf.coredump.cx/tangled/>
 
-* Serious Cryptography, par Jean-Philippe Aumasson <https://nostarch.com/seriouscrypto>
+* Serious Cryptography, par Jean-Philippe Aumasson
+    * <https://nostarch.com/seriouscrypto>
 
-* Bulletproof TLS and SSL, par Ivan Ristic <https://www.feistyduck.com/books/bulletproof-ssl-and-tls/>
+* Bulletproof TLS and SSL, par Ivan Ristic
+    * <https://www.feistyduck.com/books/bulletproof-ssl-and-tls/>
 
-* Applied Security Visualisation, par Raffael Marty <https://www.secviz.org/content/applied-security-visualization>
+* Applied Security Visualisation, par Raffael Marty
+    * <https://www.secviz.org/content/applied-security-visualization>
 
-* The Practice of Network Security Monitoring, par Richard Bejtlich <https://nostarch.com/nsm>
+* The Practice of Network Security Monitoring, par Richard Bejtlich
+    * <https://nostarch.com/nsm>
 
-* Building Secure and Reliable Systems, par H. Adkins, B. Beyer, P. Blankinship, P. Lewandowski, A. Oprea, A Stubblefield <https://landing.google.com/sre/resources/foundationsandprinciples/srs-book/>
+* Building Secure and Reliable Systems, par H. Adkins, B. Beyer, P. Blankinship, P. Lewandowski, A. Oprea, A Stubblefield
+    * <https://landing.google.com/sre/resources/foundationsandprinciples/srs-book/>
 
 ### Technique offensive
 
  
-* Hacking Exposed, par Joel Scambray, Stuart McClure, George Kurtz<https://www.cylance.com/en-us/resources/events/hacking-exposed.html>
+* Hacking Exposed, par Joel Scambray, Stuart McClure, George Kurtz
+    * <https://www.cylance.com/en-us/resources/events/hacking-exposed.html>
 
-* Network Attack and Exploitation, a framework, Matthew Monte <http://www.matthewmonte.net/>
+* Network Attack and Exploitation, a framework, Matthew Monte
+    * <http://www.matthewmonte.net/>
 
-* Hacking: The Art of Exploitation,  de Jon Erickson <https://nostarch.com/hacking2.htm>
+* Hacking: The Art of Exploitation,  de Jon Erickson
+    * <https://nostarch.com/hacking2.htm>
 
 
 
