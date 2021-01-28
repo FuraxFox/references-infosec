@@ -11,7 +11,7 @@ Les documents sélectionnés seront en Français ou en Anglais indifféremment.
 
 Ce document est maintenu à jour à l'adresse: <https://github.com/FuraxFox/references-infosec>
 
-## Articles
+## Articles et vidéos
 
 Papiers scientifiques, post de blogs ou articles illustrant les connaissances de base en sécurité informatique.
 
@@ -36,11 +36,14 @@ Papiers scientifiques, post de blogs ou articles illustrant les connaissances de
     * <http://phrack.org/issues/49/14.html#article> 
     * <https://www.eecs.umich.edu/courses/eecs588/static/stack_smashing.pdf>
 
+* How to build a cyber army, Charly Miller DEFCON 2018
+    * <https://youtu.be/IxSrn4wmjxM>
+
 ### Threat Intel
 
 Quelques papiers importants pour comprendre l'état la réflexion sur la connaissance des attaquants
 
-* Intelligence-Driven Computer Network DefenseInformed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+* Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
     *  <https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf>
 
 * The Diamond Model of Intrusion Analysis
@@ -52,7 +55,7 @@ Quelques papiers importants pour comprendre l'état la réflexion sur la connais
 * MITRE ATT&CK: Design and Philosophy
     * <https://www.mitre.org/sites/default/files/publications/pr-18-0944-11-mitre-attack-design-and-philosophy.pdf>
 
-* Walking in your rnemy’S shadow: When fourth-party collecte becomes attribution hell
+* Walking in your Enemy’s shadow: When fourth-party collecte becomes attribution hell
     * <https://www.virusbulletin.com/uploads/pdf/magazine/2017/VB2017-Guerrero-Saade-Raiu.pdf>
 
 * Living off the land and fileless attack techniques
@@ -155,8 +158,14 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
 * Evolution of Dridex
     * <https://securelist.com/dridex-a-history-of-evolution/78531/>
 
-* The business model of Fin7 <https://youtu.be/e3Vcp_Hr3jI>
+* The business model of Fin7 
+    * <https://youtu.be/e3Vcp_Hr3jI>
 
+
+#### Belles attaques
+
+*  Une opération sophistiquée de waterholing démantelée en 2020 par Google
+    * <https://arstechnica.com/information-technology/2021/01/hackers-used-4-0days-to-infect-windows-and-android-devices/>
 
 ### Récits
 
@@ -240,8 +249,4 @@ Dans les ouvrages sont exclus: les manuels, et les ouvrages dédiés à une tech
 
 * Hacking: The Art of Exploitation,  de Jon Erickson
     * <https://nostarch.com/hacking2.htm>
-
-
-
-
 
