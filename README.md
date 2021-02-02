@@ -70,6 +70,10 @@ Quelques papiers importants pour comprendre l'état la réflexion sur la connais
 * Breaking Trust: Shades of crisis across an insecure software supply chain
     * <https://www.atlanticcouncil.org/programs/scowcroft-center-for-strategy-and-security/cyber-statecraft-initiative/breaking-trust/>
 
+* Le web underground français, Cedric Pernet, Trend Micro
+	* <https://www.trendmicro.fr/media/image/the_french_underground_fr_web.pdf>
+
+
 ### Incidents et campagnes
 
 Une collection de rapports d'incident illustrant la richesse des modes opératoires des attaquants et de leurs outils.
