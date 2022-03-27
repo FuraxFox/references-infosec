@@ -139,6 +139,7 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
     * <https://dragos.com/wp-content/uploads/TRISIS-01.pdf>
     * <https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html>
     * <https://darknetdiaries.com/episode/68/>
+    * <https://www.justice.gov/opa/pr/four-russian-government-employees-charged-two-historical-hacking-campaigns-targeting-critical>
 
 * Malicious life - Responding to a cyber-attack with missiles
     * <https://malicious.life/episode/episode-54/>
