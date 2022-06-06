@@ -39,6 +39,9 @@ Papiers scientifiques, post de blogs ou articles illustrant les connaissances de
 * How to build a cyber army, Charly Miller DEFCON 2018
     * <https://youtu.be/IxSrn4wmjxM>
 
+* Cyber-conflict vs Cyber-command, hidden dangers in American Military Solution to a large scale intelligence problem
+    * <http://www.matthewmonte.net/wp-content/uploads/2022/05/Cyber-conflict-vs-Cyber-Command-hidden-dangers-in-the-American-military-solution-to-a-large-scale-intelligence-problem.pdf>
+
 ### Threat Intel
 
 Quelques papiers importants pour comprendre l'état la réflexion sur la connaissance des attaquants
@@ -179,6 +182,10 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
 * DarkNet Diaries: The Athens Shadow Games
 	* <https://darknetdiaries.com/episode/64/>
 
+### Techniques offensives
+
+* Mandiant: defining cobalt strike components 
+   * <https://www.mandiant.com/resources/defining-cobalt-strike-components>
 
 ## Livres
 
