@@ -74,7 +74,7 @@ Quelques papiers importants pour comprendre l'état la réflexion sur la connais
     * <https://www.atlanticcouncil.org/programs/scowcroft-center-for-strategy-and-security/cyber-statecraft-initiative/breaking-trust/>
 
 * Le web underground français, Cedric Pernet, Trend Micro (2016)
-	* <https://www.trendmicro.fr/media/image/the_french_underground_fr_web.pdf>
+    * <https://documents.trendmicro.com/assets/wp/wp-the-french-underground.pdf> 
 
 
 ### Incidents et campagnes
@@ -96,22 +96,22 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
     * <https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/>
 
 * Symantec Stuxnet Dossier
-    * <https://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf>
+    *** <https://docs.broadcom.com/doc/security-response-w32-stuxnet-dossier-11-en>
 
 * Mandiant APT1 Exposing One of China’s Cyber Espionage Units
-    * <https://www.fireeye.fr/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf>
+    * <https://www.mandiant.com/sites/default/files/2021-09/mandiant-apt1-report.pdf>
 
 * CYBER ESPIONAGE  Against Georgian Government (Georbot Botnet)
-    * <http://dea.gov.ge/uploads/CERT%20DOCS/Cyber%20Espionage.pdf>
+    * <https://web.archive.org/web/20121106103723/http://dea.gov.ge/uploads/CERT%20DOCS/Cyber%20Espionage.pdf>
 
 * APT 29 HAMMERTOS
-    * <https://www2.fireeye.com/rs/848-DID-242/images/rpt-apt29-hammertoss.pdf>
+    * <https://services.google.com/fh/files/misc/rpt-apt29-hammertoss-stealthy-tactics-define-en.pdf>
 
 * The Dukes: 7 years of Russian cyberespionage
     * <https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf>
 
 * Use of fancy bear android malware in tracking of Ukrainian field artillery units
-    * <https://www.crowdstrike.com/resources/reports/idc-vendor-profile-crowdstrike-2/>
+    * <https://www.crowdstrike.com/wp-content/brochures/FancyBearTracksUkrainianArtillery.pdf>
 
 * Cyber Intrusion into U.S. Office of Personnel Management: In Brief 
     * <https://fas.org/sgp/crs/natsec/R44111.pdf>
@@ -122,9 +122,10 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
 
 * Operation Cloud Hopper
     * <https://media.scmagazine.com/documents/292/cloud-hopper-report-final-upda_72977.pdf>
+    * <https://www.pwc.co.uk/cyber-security/pdf/pwc-uk-operation-cloud-hopper-report-april-2017.pdf>
 
 * VPN Filter
-    * <https://blog.talosintelligence.com/2018/05/VPNFilter.htm>
+    * <https://blog.talosintelligence.com/vpnfilter/>
 
 * Regin: nation-state ownage of GSM networks
     * <https://securelist.com/regin-nation-state-ownage-of-gsm-networks/67741/>
@@ -136,7 +137,7 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
     * <https://cdn.area1security.com/reports/Area-1-Security-PhishingDiplomacy.pdf>
 
 * Operation Blockbuster: the Sony hack
-    * <https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf>
+    * <https://www.usna.edu/CyberCenter/_files/documents/Operation-Blockbuster-Report.pdf>
 
 * TRISIS/Triton/Triconnex
     * <https://dragos.com/wp-content/uploads/TRISIS-01.pdf>
@@ -151,6 +152,10 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
     * <https://foreignpolicy.com/2020/12/21/china-stolen-us-data-exposed-cia-operatives-spy-networks/>
     * <https://foreignpolicy.com/2020/12/22/china-us-data-intelligence-cybersecurity-xi-jinping/>
     * <https://foreignpolicy.com/2020/12/23/china-tech-giants-process-stolen-data-spy-agencies/>
+
+* Top 10 unattributed APT mysteries
+    * <https://securelist.com/top-10-unattributed-apt-mysteries/107676/>
+
 
 #### Criminel
 
