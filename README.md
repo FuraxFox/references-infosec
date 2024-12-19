@@ -64,6 +64,9 @@ Quelques papiers importants pour comprendre l'état la réflexion sur la connais
 * Living off the land and fileless attack techniques
     * <https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/istr-living-off-the-land-and-fileless-attack-techniques-en.pdf>
 
+* Pacific Rim: Inside the Counter-Offensive—The TTPs Used to Neutralize China-Based Threats
+   * <https://news.sophos.com/en-us/2024/10/31/pacific-rim-neutralizing-china-based-threat/>
+
 * The evolution of ransomware
     * <https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/the-evolution-of-ransomware-15-en.pdf>
 
@@ -75,7 +78,6 @@ Quelques papiers importants pour comprendre l'état la réflexion sur la connais
 
 * Le web underground français, Cedric Pernet, Trend Micro (2016)
     * <https://documents.trendmicro.com/assets/wp/wp-the-french-underground.pdf> 
-
 
 ### Incidents et campagnes
 
@@ -175,10 +177,13 @@ Une collection de rapports d'incident illustrant la richesse des modes opératoi
     * <https://youtu.be/e3Vcp_Hr3jI>
 
 
-#### Belles attaques
+#### Attaques sophistiquées
 
 *  Une opération sophistiquée de waterholing démantelée en 2020 par Google
     * <https://arstechnica.com/information-technology/2021/01/hackers-used-4-0days-to-infect-windows-and-android-devices/>
+
+* Snowblind: The invisible hand of Secret Blizzard
+   * <https://blog.lumen.com/snowblind-the-invisible-hand-of-secret-blizzard/>
 
 ### Récits
 
